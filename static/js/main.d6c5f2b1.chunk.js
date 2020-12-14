@@ -1,0 +1,2 @@
+(this["webpackJsonpreact-deploy-test"]=this["webpackJsonpreact-deploy-test"]||[]).push([[0],{10:function(e,t,c){"use strict";c.r(t);var n=c(0),r=c(1),s=c.n(r),o=c(3),a=c.n(o);c(9);var d=function(){return Object(n.jsx)("div",{className:"App",children:Object(n.jsx)("h1",{children:"react app doployed on github"})})};a.a.render(Object(n.jsx)(s.a.StrictMode,{children:Object(n.jsx)(d,{})}),document.getElementById("root"))},9:function(e,t,c){}},[[10,1,2]]]);
+//# sourceMappingURL=main.d6c5f2b1.chunk.js.map
